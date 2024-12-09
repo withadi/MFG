@@ -12,9 +12,9 @@ This project is a Movie Recommendation System developed as part of the MFG 598 c
 3. Machine Learning: Implementation of similarity-based movie recommendation.
 4. Dataset: TMDB 5000 Movies dataset sourced from Kaggle.
 5. Processing Environment:
-   5.1 Data Preprocessing: Google Colab.
-   5.2 Web Application Development: PyCharm IDE.
-   5.3 Deployment: Streamlit.
+a. Data Preprocessing: Google Colab.
+b. Web Application Development: PyCharm IDE.
+c. Deployment: Streamlit.
 
 # Methodology
 Data Preprocessing:
