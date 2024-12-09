@@ -7,14 +7,14 @@ This project is a Movie Recommendation System developed as part of the MFG 598 c
 
 # Requirements
 
-Libraries: Numpy, Pandas, Scikit-learn, and Streamlit.
-Graphical User Interface: Web-based interface for user interaction.
-Machine Learning: Implementation of similarity-based movie recommendation.
-Dataset: TMDB 5000 Movies dataset sourced from Kaggle.
-Processing Environment:
-Data Preprocessing: Google Colab.
-Web Application Development: PyCharm IDE.
-Deployment: Streamlit.
+1. Libraries: Numpy, Pandas, Scikit-learn, and Streamlit.
+2. Graphical User Interface: Web-based interface for user interaction.
+3. Machine Learning: Implementation of similarity-based movie recommendation.
+4. Dataset: TMDB 5000 Movies dataset sourced from Kaggle.
+5. Processing Environment:
+   5.1 Data Preprocessing: Google Colab.
+   5.2 Web Application Development: PyCharm IDE.
+   5.3 Deployment: Streamlit.
 
 # Methodology
 Data Preprocessing:
