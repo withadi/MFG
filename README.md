@@ -23,14 +23,21 @@ Data Preprocessing:
 2. Extracted features such as genres, keywords, and cast for content-based filtering.
 3. Transformed text data into numerical form using techniques like tokenization and TF-IDF vectorization.
 
-Machine Learning:
+# Machine Learning:
 
-Calculated cosine similarity between movie vectors using Scikit-learn.
-Stored similarity metrics for quick reference during recommendations.
-Web App Development:
+1. Calculated cosine similarity between movie vectors using Scikit-learn.
+2. Stored similarity metrics for quick reference during recommendations.
 
-Created a Streamlit app with a simple and interactive interface.
-Integrated TMDB API for fetching movie posters.
-Deployment:
+# Web App Development:
 
-Deployed the application locally using Streamlit for live recommendations.
+1. Created a Streamlit app with a simple and interactive interface.
+2. Integrated TMDB API for fetching movie posters.
+
+# Deployment:
+
+The application was deployed locally using Streamlit for live recommendations.
+
+# Features
+1. User Input: Dropdown menu to select a movie from the available list.
+2. Recommendations: Suggests five similar movies based on the input.
+3. Visuals: Displays movie posters fetched using TMDB API for an enhanced user experience
